@@ -1,9 +1,9 @@
 {
-    "name": "txt2mindmap",
+    "name": "text2tree",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "git@github.com:Mhdi-kr/txt2mindmap.git",
-    "author": "Mahdi Karimi <md.karimi@alibaba.ir>",
+    "repository": "git@github.com:Mhdi-kr/text2tree.git",
+    "author": "Mahdi Karimi <mhdi_kr@outlook.com>",
     "license": "MIT",
     "preferGlobal": true,
     "bin": {
