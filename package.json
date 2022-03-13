@@ -1,0 +1,26 @@
+{
+    "name": "txt2mindmap",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:Mhdi-kr/txt2mindmap.git",
+    "author": "Mahdi Karimi <md.karimi@alibaba.ir>",
+    "license": "MIT",
+    "preferGlobal": true,
+    "bin": {
+      "text2tree": "./dist/index.js"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.21",
+        "@types/yargs": "^17.0.9",
+        "nodemon": "^2.0.15",
+        "ts-node": "^10.7.0",
+        "typescript": "^4.6.2"
+    },
+    "dependencies": {
+        "express": "^4.17.3",
+        "yargs": "^17.3.1"
+    },
+    "scripts": {
+        "dev": "npx nodemon ./index.ts"
+    }
+}
