@@ -1,10 +1,12 @@
 # text2tree
 
-Turn simple text files with indentations to SVG mindmap tress inside browser using CLI
+![text2tree demo header](/docs/Header.png)
+
+Turn simple text files with tab indentations to SVG mindmap trees inside the browser using a command line interface!
 
 ## Installation
 
-Install the CLI (command line interface) tool globally on your machine.
+Install the CLI tool globally on your machine.
 
 ```Bash
 $ npm install -g text2tree
